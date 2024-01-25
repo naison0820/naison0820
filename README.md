@@ -9,7 +9,7 @@
 Hi my name is Naisson (pronounced like Jason with an 'N'). I'm new to coding and learning as much as I possibly can while i tackle each language. I'm originally from England and enjoy playing tennis in my spare time. I also do a bit of DUI such as carpentry, electrical work etc and general home improvement. I am always open to learning and connecting so feel free to reach out.
 
 <details>
-<summary>My top THINGS-TO-RANK</summary>
+<summary>My Hobbies</summary>
 
 | Rank | Hobbies |
 |-----:|---------------------------|
